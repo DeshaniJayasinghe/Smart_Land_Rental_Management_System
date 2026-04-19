@@ -37,8 +37,7 @@
 <h3>🛠️ Tech Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Draw.io">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+ 
 </p>
 
 <h3>📂 Project Resources</h3>
